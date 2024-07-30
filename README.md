@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Miguel</h1>
 <h3 align="center">A passionate Junior Web Developer!</h3>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **differents projects**
 
 - 🌱 I’m currently learning **next, react, node and improve my MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://porfolio-jose-miguel.vercel.app/](https://porfolio-jose-miguel.vercel.app/)
 
 - 📫 How to reach me **Tapuy@hotmail.es**
 
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/jos%c3% a9-miguel-romero-aja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/jos%c3% a9-miguel-romero-aja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
