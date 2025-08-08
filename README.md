@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hola a todos 👋, soy José Miguel</h1>
-<h3 align="center">Un apasionado Desarrollador Web</h3>
+<h3 align="center">Un apasionado Desarrollador Web 👩‍💻</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,14 +20,18 @@
 - 🌱 **Mis metas** son seguir aprendiendo **Java** y mejorar mis habilidades en el **MERN Stack**.
 - 👨‍💻 Puedes ver todos mis proyectos en mi portfolio: [https://porfolio-jose-miguel.vercel.app/](https://porfolio-jose-miguel.vercel.app/)
 - 📫 ¿Quieres contactar conmigo? Mándame un correo a: **Tapuy@hotmail.es**
-- ⚡ **Dato curioso:** Me encanta la música y los videojuegos, pero mi pasatiempo favorito es tocar la guitarra eléctrica.
+- ⚡ **Dato curioso:** Me encanta la música y los videojuegos, pero mi pasatiempo favorito es tocar la guitarra eléctrica 🎸🤟.
 
 <br>
 
-<h2 align="left">Sobre mí</h2>
-<h4 align="left">
+<div align="center">
+  <img src="animation_500_kxa883sd-1.gif" alt="Programador trabajando" />
+</div>
+
+<h2 align="left">Sobre mí 😀</h2>
+<p align="left">
 Comencé en la programación de forma autodidacta. Al darme cuenta del gran futuro de la tecnología, decidí unirme a un bootcamp en CodeSpace Academy para acelerar mi aprendizaje y poder construir proyectos de manera más eficiente.
-</h4>
+</p>
 
 ---
 
@@ -42,7 +46,7 @@ Comencé en la programación de forma autodidacta. Al darme cuenta del gran futu
 
 <h2 align="left">Lenguajes y Herramientas:</h2>
 
-<h4>🌐 Frontend</h4>
+<h3>🌐 Frontend</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -54,21 +58,22 @@ Comencé en la programación de forma autodidacta. Al darme cuenta del gran futu
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
 
-<h4>⚙️ Backend</h4>
+<h3>⚙️ Backend</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
-<h4>🗄️ Bases de Datos</h4>
+<h3>🗄️ Bases de Datos</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-<h4>🛠️ Herramientas y DevOps</h4>
+<h3>🛠️ Herramientas y DevOps</h3>
 <p align="left">
+  <a href="https://www.notion.so" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" alt="notion" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
