@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+José+Miguel;Welcome+to+my+profile!" alt="Title">
+</div>
+
 <h1 align="center">Hola a todos 👋, soy José Miguel</h1>
 <h3 align="center">Un apasionado Desarrollador Web</h3>
 
@@ -20,23 +24,23 @@
 
 <br>
 
-<h3 align="left">Sobre mí</h3>
+<h2 align="left">Sobre mí</h2>
 <p align="left">
 Comencé en la programación de forma autodidacta. Al darme cuenta del gran futuro de la tecnología, decidí unirme a un bootcamp en CodeSpace Academy para acelerar mi aprendizaje y poder construir proyectos de manera más eficiente.
 </p>
 
 ---
 
-<h3 align="left">Conecta conmigo:</h3>
+<h2 align="left">Conecta conmigo:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/jos%C3%A9-miguel-dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn de José Miguel" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn de José Miguel" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h2 align="left">Lenguajes y Herramientas:</h2>
 
 <h4>🌐 Frontend</h4>
 <p align="left">
@@ -76,3 +80,7 @@ Comencé en la programación de forma autodidacta. Al darme cuenta del gran futu
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chemusky&label=Profile%20views&color=0e75b2&style=flat" alt="Chemusky" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
