@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+José+Miguel;Welcome+to+my+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+José+Miguel;Welcome+to+my+profile!" alt="Title">
 </div>
 
 <h1 align="center">Hola a todos 👋, soy José Miguel</h1>
@@ -25,9 +25,9 @@
 <br>
 
 <h2 align="left">Sobre mí</h2>
-<p align="left">
+<h4 align="left">
 Comencé en la programación de forma autodidacta. Al darme cuenta del gran futuro de la tecnología, decidí unirme a un bootcamp en CodeSpace Academy para acelerar mi aprendizaje y poder construir proyectos de manera más eficiente.
-</p>
+</h4>
 
 ---
 
