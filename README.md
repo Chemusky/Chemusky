@@ -30,7 +30,18 @@
 
 <h2 align="left">Sobre mí 😀</h2>
 <p align="left">
-Comencé en la programación de forma autodidacta. Al darme cuenta del gran futuro de la tecnología, decidí unirme a un bootcamp en CodeSpace Academy para acelerar mi aprendizaje y poder construir proyectos de manera más eficiente.
+Soy un desarrollador web apasionado por la tecnología que decidió dar un giro desde el ámbito de la Geografía hacia el desarrollo de software. 
+Durante mi etapa universitaria me interesé por la vertiente tecnológica de la disciplina, especialmente el desarrollo de visores cartográficos en la web, lo que despertó mi curiosidad por la programación.
+</p>
+
+<p align="left">
+Comencé a aprender programación de forma autodidacta y posteriormente reforcé mis conocimientos mediante formación especializada, desarrollando proyectos full stack y participando en entornos profesionales de desarrollo. 
+Actualmente trabajo principalmente con <strong>Java y Spring</strong> en el backend, además de tecnologías web modernas en el frontend.
+</p>
+
+<p align="left">
+Me interesa especialmente el desarrollo de aplicaciones escalables, las buenas prácticas de arquitectura de software y el aprendizaje continuo. 
+Actualmente sigo ampliando mis conocimientos en <strong>Java</strong> y explorando <strong>Python e Inteligencia Artificial</strong>.
 </p>
 
 ---
@@ -73,7 +84,7 @@ Comencé en la programación de forma autodidacta. Al darme cuenta del gran futu
 
 <h3>🛠️ Herramientas y DevOps</h3>
 <p align="left">
-  <a href="https://www.notion.so" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" alt="notion" width="40" height="40"/></a>
+  <a href="https://www.notion.so" fill = "h target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" alt="notion" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
